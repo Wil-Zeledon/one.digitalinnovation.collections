@@ -39,5 +39,14 @@ fun main() {
         println(name)
     }
 
+    val values = arrayOf("CARLOS", "PEDRO", "WIL",)     //FOR ARRAY OF
+
+    println("\n")
+    println("F\n")
+    values.sort()                       //FOR ORDER THE LIST
+    for (valor in values) {
+        println(valor)
+    }
+
 }
 
